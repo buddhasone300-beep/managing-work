@@ -17,7 +17,7 @@
         { "title": "Scale to quarter and sort by End date", "type": "Task", "parent": 4},
         { "title": "Refine release dates", "type": "Task", "parent": 4},
     { "id": 5, "title": "Add Board view for tasks", "type": "Feature" },
-        { "title": "Add a view named 'Task Board' filtered on Tasks and untyped issues", "type": "Task", "parent": 5},
+        { "title": "Add a view named 'Task Board' filtered on Tasks and untyped issues", "type": "Task", "parent": 5, "body": "Create a board-style project view titled \"Task Board\" that shows only Task issues and any issues without a type. This keeps the board focused on the execution backlog without clutter from typed feature or bug work."},
         { "title": "Add a Parent Issue slice, Group by Assignees, and add the Labels field", "type": "Task", "parent": 5},
     { "title": "Fix the typo in the README file", "type": "Bug", "body": "The 'Abstract' header on line 3 is misspelled." }
 ]
